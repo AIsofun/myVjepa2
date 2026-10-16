@@ -1,3 +1,11 @@
+# V-JEPA 2 个人实践
+
+基于 Meta 官方 V-JEPA 2 实现的视频理解模型实践。本仓库保留原始项目说明与许可，模型权重需按说明自行下载。
+
+代码与示例见 [src/](src/) 和 [notebooks/](notebooks/)。
+
+---
+
 # V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning
 
 ### [Meta FAIR](https://ai.meta.com/research/)
@@ -444,3 +452,7 @@ Rabbat, Michael and Ballas, Nicolas},
   year={2025}
 }
 ```
+
+---
+
+[返回 AIsofun 项目目录](https://github.com/AIsofun/playground)
